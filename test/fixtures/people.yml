@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employeeId: 1.5
+  preferredName: MyString
+  gender: false
+  role: 1
+  grade: 1
+  picture: MyString
+  totalExperience: 9.99
+  twExperience: 9.99
+  homeOffice: MyString
+  assignable: false
+  inBeach: false
+  timeInCurrentAccount: 9.99
+
+two:
+  employeeId: 1.5
+  preferredName: MyString
+  gender: false
+  role: 1
+  grade: 1
+  picture: MyString
+  totalExperience: 9.99
+  twExperience: 9.99
+  homeOffice: MyString
+  assignable: false
+  inBeach: false
+  timeInCurrentAccount: 9.99
